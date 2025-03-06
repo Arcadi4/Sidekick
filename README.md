@@ -55,7 +55,7 @@ Sidekick supports a variety of reasoning models, including Alibaba's QwQ-32B-Pre
 
 Sidekick uses a code interpreter to boost the mathematical and logical capabilities of models. 
 
-Since small models are much better at writing code than doing Math, having write the code, execute it, and present the results dramatically increases trustworthiness of answers.
+Since small models are much better at writing code than doing math, having it write the code, execute it, and present the results dramatically increases trustworthiness of answers.
 
 ![Screenshot](https://raw.githubusercontent.com/johnbean393/Sidekick/refs/heads/main/README%20Images/codeInterpreter.png)
 
