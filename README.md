@@ -57,6 +57,8 @@ Sidekick uses a code interpreter to boost the mathematical and logical capabilit
 
 Since small models are much better at writing code than doing Math, having write the code, execute it, and present the results dramatically increases trustworthiness of answers.
 
+![Screenshot](https://raw.githubusercontent.com/johnbean393/Sidekick/refs/heads/main/README%20Images/codeInterpreter.png)
+
 ### Image Generation
 
 Sidekick can generate images from text, allowing you to create visual aids for your work. 
